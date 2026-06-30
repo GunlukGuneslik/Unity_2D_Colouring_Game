@@ -6,7 +6,4 @@
 - Close icon [https://www.flaticon.com/free-icon/close_5369422]
 - Check marks [https://www.flaticon.com/free-icon/check_14090371]
 - Celebration emoji [https://www.flaticon.com/free-icon/celebrate_1234567]
-
-  
-🔊 Sound Effects:
--
+- Paintings belong to me
